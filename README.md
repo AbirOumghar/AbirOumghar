@@ -1,20 +1,21 @@
+<h1 align="center" style="color:blue;">Hi there 👋</h1>
 
-# Hi there 👋
+<h2 align="center" style="color:green;">I'm Abir Oumghar!</h2>
 
-## I'm Abir Oumghar!
+<p align="center">Welcome to my GitHub profile!</p>
 
-Welcome to my GitHub profile!
+<h3 align="center" style="color:darkorange;">About Me</h3>
 
-### About Me
 - ⚡ I love **Maths**, **Programming**, **Data science**, and **AI**.
 - 🌱 I’m addicted to learning, creating, and sharing with others.
 - 🌍 Currently, I am a **Data Science student**.
 - 💞️ I’m looking to collaborate on maintaining and improving **ML and Data Science/Engineering projects**.
 
-### How to Reach Me 📫
-- **Email:** [abiroumghar@gmail.com](mailto:abiroumghar@gmail.com)
-- **LinkedIn:** [Abir Oumghar](https://www.linkedin.com/in/abir-oumghar-699690210/)
+<h3 align="center" style="color:darkorange;">How to Reach Me 📫</h3>
 
-Feel free to contact me for any information or collaboration!
+- **Email:** <a href="mailto:abiroumghar@gmail.com">abiroumghar@gmail.com</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/abir-oumghar-699690210/">Abir Oumghar</a>
 
-![Abir's GitHub Banner](./abirrrr.png)
+<p align="center">Feel free to contact me for any information or collaboration!</p>
+
+<p align="center"><img src="./abirrrr.png" alt="Abir's GitHub Banner" width="50%"/></p>
