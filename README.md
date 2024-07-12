@@ -18,8 +18,8 @@
 
 <p align="center">Feel free to contact me for any information or collaboration!</p>
 <p align="center"><img src="./abirrrr.png" alt="Abir's GitHub Banner" width="50%"/></p>
-<div style="text-align: center; font-family: monospace;">
-  <pre style="display: inline-block; text-align: left; margin: 0 auto;">
+<div style="display: flex; justify-content: center; align-items: center; font-family: monospace;">
+  <pre>
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
 @@       | |                                           @@
@@ -41,3 +41,4 @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
   </pre>
 </div>
+
