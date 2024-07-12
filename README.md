@@ -17,11 +17,9 @@
 - **LinkedIn:** <a href="https://www.linkedin.com/in/abir-oumghar-699690210/">Abir Oumghar</a>
 
 <p align="center">Feel free to contact me for any information or collaboration!</p>
-
-<p align="center"><img src="./abirrrr.png" alt="Abir's GitHub Banner" width="50%"/>
-<p align="center">
-  <div style="text-align: center; font-family: monospace;">
-    <pre>
+<p align="center"><img src="./abirrrr.png" alt="Abir's GitHub Banner" width="50%"/></p>
+<div style="text-align: center; font-family: monospace;">
+  <pre>
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
 @@       | |                                           @@
@@ -41,8 +39,5 @@
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-    </pre>
-  </div>
+  </pre>
 </div>
-</p>
-</p>
