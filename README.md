@@ -19,6 +19,8 @@
 <p align="center">Feel free to contact me for any information or collaboration!</p>
 
 <p align="center"><img src="./abirrrr.png" alt="Abir's GitHub Banner" width="50%"/></p>
+
+<pre>
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
 @@       | |                                           @@
@@ -38,3 +40,4 @@
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+</pre>
