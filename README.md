@@ -36,8 +36,7 @@
        | |"| |                                         
        ( ) ( )   Testing leads to failure              
        |_| |_|   and failure leads to understanding    
-   _.-' _j L_ '-._                                     
-  (___.'     '.___)                                    
+                                
 
   </pre>
 </div>
